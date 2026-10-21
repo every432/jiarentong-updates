@@ -1,7 +1,7 @@
-
 {
-  "versionCode": 0,
-  "versionName": "0.0",
-  "apkUrl": "",
-  "releaseNotes": "更新服务初始化，暂无更新"
+  "versionCode": 6,
+  "versionName": "2.2",
+  "apkUrl": "https://github.com/every432/jiarentong-updates/releases/download/v2.2/app-release.apk",
+  "releaseNotes": "测试在线更新，验证远程下载及覆盖安装",
+  "sha256": "EEBD7F3A1C04701BB48C1032CBE09EAA12D461321E1E92B6D406D26458F6079C"
 }
