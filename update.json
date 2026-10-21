@@ -1,7 +1,8 @@
+
 {
-  "versionCode": 6,
-  "versionName": "2.2",
-  "apkUrl": "https://github.com/every432/jiarentong-updates/releases/download/v2.2/app-release.apk",
-  "releaseNotes": "测试在线更新，验证远程下载及覆盖安装",
-  "sha256": "EEBD7F3A1C04701BB48C1032CBE09EAA12D461321E1E92B6D406D26458F6079C"
+  "versionCode": 8,
+  "versionName": "2.4",
+  "apkUrl": "https://gitee.com/li-aikang/jiarentong-download/releases/download/v2.4/app-release2.4.apk",
+  "releaseNotes": "优化在线更新速度，使用Gitee下载新版安装包",
+  "sha256": "167D36D7C91673385FD03E67C09B685D2617E57CD2310BB482C1DFD323D7C836"
 }
