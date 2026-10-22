@@ -3,10 +3,6 @@
   "versionCode": 10,
   "versionName": "2.6",
   "apkUrl": "https://gitee.com/li-aikang/jiarentong-download/releases/download/v2.6/app-release.apk",
-  "releaseNotes": "辅导班课时板块优化
-                   新增日记板块
-                   删除一键报平安
-                   调整板块顺序
-                   新增闹钟响铃提醒功能",
+  "releaseNotes": "辅导班课时板块优化，新增日记板块，删除一键报平安，调整板块顺序新增闹钟响铃提醒功能",
   "sha256": "5974B7B45B54A5774C8E667653300795E657C147A4D7D8088954505B8B9EF4D6"
 }
