@@ -1,8 +1,8 @@
 
 {
-  "versionCode": 12,
-  "versionName": "3.1",
-  "apkUrl": "https://gitee.com/li-aikang/jiarentong-download/releases/download/v3.1/app-release.apk",
-  "releaseNotes": "增添家庭共享功能，支持添加家人进行家庭协作任务，增加家庭开支统计，增加常用网站",
-  "sha256": "B280EB631CFF1DA7C3BA4F45DC01B54AED013EAEF678EDE882EEFEDAAA7FE3BA"
+  "versionCode": 13,
+  "versionName": "3.2",
+  "apkUrl": "https://gitee.com/li-aikang/jiarentong-download/releases/download/v3.2/app-release.apk",
+  "releaseNotes": "增添家庭共享新功能，可以匿名加入家庭，可以修改密码，可提示家庭共享新增信息；主页板块支持拖动编辑和隐藏",
+  "sha256": "DC03E4C10CE0FCCFF5B88058E85C426E692892A9A7B16E33EEF326BA38314A01"
 }
